@@ -1,4 +1,4 @@
-#Welcome to Audio-player-App
+<h2>Welcome to Audio-player-App</h2>
 <h4>How UI looks like</h4>
 <img src="./assets/Screenshot (36).png"/>
 
